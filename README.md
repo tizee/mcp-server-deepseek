@@ -2,6 +2,8 @@
 
 A [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server that provides access to DeepSeek-R1's reasoning capabilities, allowing non-reasoning models to generate better responses with enhanced thinking.
 
+- read [R1+Sonnet set SOTA on aider’s polyglot benchmark](https://aider.chat/2025/01/24/r1-sonnet.html)
+
 ## Overview
 
 This server acts as a bridge between LLM applications and DeepSeek's reasoning capabilities. It exposes DeepSeek-R1's reasoning content through an MCP tool, which can be used by any MCP-compatible client.
